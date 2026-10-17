@@ -1,0 +1,4 @@
+# Runtime dependencies (versions validated on Python 3.12.7)
+pandas==3.0.1
+plotly==7.1.0
+streamlit==1.66.0
